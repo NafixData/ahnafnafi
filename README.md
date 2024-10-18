@@ -3,7 +3,7 @@
 ## Research Interest
 Environment Engineering, Environment Science, Neural Network, Machile Learning, Big Data
 ## Academic Credentials	        		
-- B.Sc, Urban and Regional Planning | Bangladesh Univerity of Engineering and Technology (_February 2025_)
+- B.Sc,</br> Urban and Regional Planning | Bangladesh Univerity of Engineering and Technology (_February 2025_)
 - H.S.C., Science | Birshrestha Noor Mohammad Public College (_July 2019_)
 - S.S.C., Science | Birshrestha Noor Mohammad Public College (_May 2017_)
 
