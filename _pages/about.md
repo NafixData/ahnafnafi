@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Environment | Deep Learning | Big Data"
+title: "Ahnaf Nafi"
 author_profile: true
 redirect_from: 
   - /about/
