@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ahnaf Nafi"
+title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Md Ahnaf Nafi"
+name                     : "Md Ahnaf Nafi"
 description              : &description "personal description"
 url                      : "https://NafixData.github.io/ahnafnafi"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
