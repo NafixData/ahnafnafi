@@ -4,9 +4,9 @@ title                    : "Ahnaf Nafi"
 title_separator          : "-"
 name                     : &name "Ahnaf Nafi"
 description              : &description "Learning, trying, exploring and it's a loop!"
-url                      : "https://ahnafnafi.github.io"
+url                      : #"https://ahnafnafi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NafixData/ahnafnafi.github.io"
+repository               : #"NafixData/ahnafnafi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
