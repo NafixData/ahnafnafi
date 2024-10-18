@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Academic Credentials
 ======      		
-- B.Sc,</br> Urban and Regional Planning - Bangladesh Univerity of Engineering and Technology (_February 2025_)
+- B.Sc, Urban and Regional Planning - Bangladesh Univerity of Engineering and Technology (_February 2025_)
 - H.S.C., Science - Birshrestha Noor Mohammad Public College (_July 2019_)
 - S.S.C., Science - Birshrestha Noor Mohammad Public College (_May 2017_)
 
@@ -24,8 +24,8 @@ Standardized Test Scores
 
 Publications
 =======
-#### 1. Undergraduate Thesis
-**Thesis Title: Impact of Infrastructure Development on Air Quality (_2024_)**  
+## 1. Undergraduate Thesis
+**Thesis Title:** Impact of Infrastructure Development on Air Quality (_2024_) 
 Supervisor: **Dr. Dipita Hossain**; Assosiate Professor, Department of Urban and Regional Planning  
 
 Professional Experience
