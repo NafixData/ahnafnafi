@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Ahnaf Nafi"
 title_separator          : "-"
-name                     : &name "About Me"
+name                     : &name "Ahnaf Nafi"
 description              : &description "personal description"
-url                      : "https://nafixdata.github.io/ahnafnafi"
+url                      : "https://NafixData.github.io/ahnafnafi"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NafixData/ahnafnafi.github.io"
 
