@@ -21,7 +21,7 @@ repository               : "NafixData/ahnafnafi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Dp.png"
+  avatar           : "https://github.com/NafixData/ahnafnafi/blob/master/images/Dp.png"
   name             : "Md. Ahnaf Nafi"
   pronouns         : "He/His"  
   bio              : "Urban Planner | ML Specialist"
