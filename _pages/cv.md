@@ -9,56 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic Credentials
+======      		
+- B.Sc,</br> Urban and Regional Planning - Bangladesh Univerity of Engineering and Technology (_February 2025_)
+- H.S.C., Science - Birshrestha Noor Mohammad Public College (_July 2019_)
+- S.S.C., Science - Birshrestha Noor Mohammad Public College (_May 2017_)
+
+Standardized Test Scores
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **IELTS**
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **GRE**
+
 
 Publications
+=======
+#### 1. Undergraduate Thesis
+**Thesis Title: Impact of Infrastructure Development on Air Quality (_2024_)**  
+Supervisor: **Dr. Dipita Hossain**; Assosiate Professor, Department of Urban and Regional Planning  
+
+Professional Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* June 2024: Internship
+  * Ministry of Planning, Bangladesh
+  * Duties includes: Checking and approving DPPs (Development Project Proposal)
+  * Supervisor: Mahbub
+
+Technical Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Programming: Python, R, C, C++
+* Spatial Analysis: ArcGIS, QGIS
+* Simulation: PTV Vissim
+* Statistical Analysis: R, SPSS
+* Design: AutoCAD
+* 3D Design: Sketchup
+* Presentation: MS PowerPoint
+* Others
+  * Microsoft Offices
+  * Adobe Illustrator
+  * Adobe Premier Pro
+
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
