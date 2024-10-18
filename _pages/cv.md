@@ -15,6 +15,15 @@ Academic Credentials
 - H.S.C., Science - Birshrestha Noor Mohammad Public College (_July 2019_)
 - S.S.C., Science - Birshrestha Noor Mohammad Public College (_May 2017_)
 
+| Degree                 | Department                                           |  Institute                                         |
+| -----------------------| -----------------------------------------------------| ---------------------------------------------------|
+| B.Sc (_February 2025_) |Urban and Regional Planning                           | Bangladesh Univerity of Engineering and Technology |
+| H.Sc (_July 2019_)     | Science                                              | Birshrestha Noor Mohammad Public College           |
+| S.Sc (_May 2017_)      | Science                                              | Birshrestha Noor Mohammad Public College           |
+
+
+
+
 Standardized Test Scores
 ======
 - **IELTS**
