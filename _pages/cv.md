@@ -56,10 +56,14 @@ Technical Skills
 
 Extra Curricular Activities
 ======
-  * Music: Guitar, Staff and Notes
-  * Sports: Swimming, Basketball
+  * Music: Achieved 4 years academic certificate from Bangladesh Acamedy of Fine Arts (BAFA) on guitar.
+    It was basically a music institution where 2 examaminations held on each year. Staff and notes are the
+    main curriculam here.
+  * Sports:
+    * Swimming: Academic 3 months course from _March, 2010_ to _May, 2010_
+    * Basketball: Professional practice and under 18 main team of BFTS, from _January, 2016_ to _June, 2017_
 
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
