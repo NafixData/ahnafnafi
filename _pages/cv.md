@@ -32,7 +32,7 @@ Publications
 =======
 ## 1. Undergraduate Thesis
 **Thesis Title:** Impact of Infrastructure Development on Air Quality (_2024_)   
-Supervisor: **Dr. Dipita Hossain**; Assosiate Professor, Department of Urban and Regional Planning  
+**Supervisor:** Dr. Dipita Hossain; Assosiate Professor, Department of Urban and Regional Planning  
 
 Professional Experience
 ======
@@ -56,14 +56,16 @@ Technical Skills
 
 Extra Curricular Activities
 ======
-  * Music:  Achieved 4 years academic certificate from Bangladesh Acamedy of Fine Arts (BAFA) on guitar.
+* Music:  Achieved 4 years academic certificate from Bangladesh Acamedy of Fine Arts (BAFA) on guitar.
     It was basically a music institution where 2 examaminations held on each year. Staff and notes are the
     main curriculam here.
-  * Sports:
+* Sports:
     * Swimming: Academic 3 months course from _March, 2010_ to _May, 2010_
     * Basketball: Professional practice and under 18 main team of BFTS, from _January, 2016_ to _June, 2017_
-
+* Club:  
+   * Former Member of Kantha-BUET, a Recitation Club from _January 2020_ to _February, 2025_
+   * Former Member of BNMPC Science Club from _January, 2016_ to _June, 2019_
 
 Service and leadership
 ======
-
+* Event Secretary of URP Association of BUET (USAB) from _June, 2024_ to _February, 2025_
