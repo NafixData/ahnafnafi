@@ -53,7 +53,11 @@ Technical Skills
 * Others
   * Microsoft Offices
   * Adobe Illustrator
-  * Adobe Premier Pro
+
+Extra Curricular Activities
+======
+  * Music: Guitar, Staff and Notes
+  * Sports: Swimming, Basketball
 
 
 Service and leadership
