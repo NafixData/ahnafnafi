@@ -31,7 +31,7 @@ Standardized Test Scores
 Publications
 =======
 ## 1. Undergraduate Thesis
-**Thesis Title:** Impact of Infrastructure Development on Air Quality (_2024_) 
+**Thesis Title:** Impact of Infrastructure Development on Air Quality (_2024_)   
 Supervisor: **Dr. Dipita Hossain**; Assosiate Professor, Department of Urban and Regional Planning  
 
 Professional Experience
@@ -56,7 +56,7 @@ Technical Skills
 
 Extra Curricular Activities
 ======
-  * Music: Achieved 4 years academic certificate from Bangladesh Acamedy of Fine Arts (BAFA) on guitar.
+  * Music:  Achieved 4 years academic certificate from Bangladesh Acamedy of Fine Arts (BAFA) on guitar.
     It was basically a music institution where 2 examaminations held on each year. Staff and notes are the
     main curriculam here.
   * Sports:
