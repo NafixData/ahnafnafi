@@ -19,6 +19,6 @@ This website is a reflection of my academic interests, research projects, and pr
 
 Current Goals
 ========
-📌 Applying for PhD Programs in the USA with a focus on environmental science and machine learning applications.
-📌 Expanding my skills in data analytics and building meaningful, impactful models.
-📌 Exploring opportunities for collaborative research and contributing to the scientific community.
+📌 Applying for PhD Programs in the USA with a focus on environmental science and machine learning applications.  
+📌 Expanding my skills in data analytics and building meaningful, impactful models.  
+📌 Exploring opportunities for collaborative research and contributing to the scientific community.  
