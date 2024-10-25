@@ -53,6 +53,7 @@ Projects
    </div>  
 
 ------------------------------- 
+
 Professional Experience
 ======
 * June 2024: Internship
