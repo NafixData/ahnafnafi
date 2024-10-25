@@ -36,9 +36,9 @@ Publications
 
 Projects
 =======
-1. **Title:** Site Planning of Dhanmondi Lake Integrated Park
-<div style="text-align: justify;">
-<p>  </p><b>Abstract:</b> Dhanmondi Lake Park has been one of the essential parts of Dhanmondi's residents since 1956, providing them a place for recreation, relaxation, and other environmental facilities by enriching the biodiversity of its surroundings with greeneries and other ecological features. Moreover, this place has become the host of different economic and social activities that make this place more vibrant and dynamic. However, over time, unregulated expansion and an increase in the private housing sector converted the plots into single dwellings, posing a pollution danger to the lake until it was re-excavated. The lake's state deteriorated due to the sewer line that ran along the lake's coast. Though authorities took many approaches to renovate and regenerate the park's physical and other features from time to time. Every step had its pros and cons and most of the works considered the lake water condition of the Dhanmondi Lake Park. Therefore, observing this massive study gap regarding the physical features of the park, this study uses a physical survey to investigate the current state of the Dhanmondi Lake Integrated Park. Some issues are being attempted to be discovered. A map is provided, including many recommendations based on the analyses and ideas obtained from literatures research of international parks. 
+1. **Title: Site Planning of Dhanmondi Lake Integrated Park**
+<div style="margin-left: 1in; text-align: justify;>
+<b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to unregulated urban expansion, pollution, and infrastructure deterioration. It highlighted past regeneration efforts and identified gaps in the physical aspects of the park’s management. Based on fieldwork and literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
 </div>
 
 Professional Experience
