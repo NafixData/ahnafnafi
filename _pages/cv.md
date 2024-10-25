@@ -52,8 +52,7 @@ Projects
      literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
    </div>  
 
-
-
+------------------------------- 
 Professional Experience
 ======
 * June 2024: Internship
