@@ -42,7 +42,8 @@ Projects
      unregulated urban expansion, pollution, and infrastructure deterioration. It highlighted past regeneration efforts and identified gaps in the physical aspects of the park’s management. Based on fieldwork and
      literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
    </div>  
-  ------------------------------- 
+   
+------------------------------- 
   
 **2 Title: Site Planning of Dhanmondi Lake Integrated Park**
    <div style="text-align: justify;">
@@ -51,7 +52,7 @@ Projects
      literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
    </div>  
 
-
+------------------------------- 
 
 Professional Experience
 ======
