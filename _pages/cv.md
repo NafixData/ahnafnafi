@@ -37,7 +37,7 @@ Publications
 Projects
 =======
 **1 Title: Site Planning of Dhanmondi Lake Integrated Park**
-   <div text-align: justify;">
+   <div text-align: "justify;">
      <b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to
      unregulated urban expansion, pollution, and infrastructure deterioration. It highlighted past regeneration efforts and identified gaps in the physical aspects of the park’s management. Based on fieldwork and
      literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
@@ -46,7 +46,7 @@ Projects
    <br>
    
 **2 Title: Site Planning of Dhanmondi Lake Integrated Park**
-   <div text-align: justify;">
+   <div text-align: "justify;">
      <b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to
      unregulated urban expansion, pollution, and infrastructure deterioration. It highlighted past regeneration efforts and identified gaps in the physical aspects of the park’s management. Based on fieldwork and
      literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
