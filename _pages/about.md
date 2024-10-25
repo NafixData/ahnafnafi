@@ -8,9 +8,6 @@ redirect_from:
 ---
 # Urban Planner | Data Enthusiast | Aspiring PhD Researcher
 -------------------------------
-Awards and Achievements
-========
-- No awards Bhai
 
 **Welcome!**
 Hello! I am Md. Ahnaf Nafi, a student of **Urban and Regional Planning (URP)** at BUET, Bangladesh. My academic journey revolves around exploring **urbanization, migration, statistical analysis, and civil engineering principles**. Alongside planning, I have cultivated a deep interest in **data science, machine learning, deep learning and environmental studies**, working with tools like ArcGIS, R-Studio, PTV Vissim and Excel.
