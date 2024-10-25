@@ -43,7 +43,6 @@ Projects
      literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
    </div>
    <br>
-   <br>
    
 **2 Title: Site Planning of Dhanmondi Lake Integrated Park**
    <div style="text-align: justify;">
