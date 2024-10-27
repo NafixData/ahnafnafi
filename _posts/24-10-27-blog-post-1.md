@@ -1,7 +1,7 @@
 ---
 title: 'Snow, Silence, and a Night That Stayed with Us'
 date: 2024-10-27
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2024/10/blog-post-1/
 tags:
   - Adventure
   - Trekking
