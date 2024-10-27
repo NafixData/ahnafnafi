@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Urban Planner | Data Enthusiast | Aspiring PhD Researcher
+# Urban Planner | Data Enthusiast | Aspiring Researcher
 -------------------------------
 
 **Welcome!**  
