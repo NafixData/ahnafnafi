@@ -32,12 +32,12 @@ Publications
 =======
 ## 1. Undergraduate Thesis
 **Thesis Title:** Deep Learning-Based Prediction of Development Phases and Their Impact on Air Quality in the Dhaka Metropolitan Region(_2025_)   
-**Supervisor:** Dr. Dipita Hossain; Assosiate Professor, Department of Urban and Regional Planning  
+**Supervisor:** Dr. Dipita Hossain; Assosiate Professor, Department of Urban and Regional Planning
+   <div style="text-align: justify;">
      <b>Description:</b> This study investigates the impact of urban development on air quality in Dhaka using deep learning and sky images. A predictive model, built on the ResNet-50 architecture, classifies urban areas based on their development phases and air quality levels, achieving 93% classification accuracy. The study also creates a novel image database (Infra-Nafi) for air quality prediction. Findings suggest a strong correlation between urban development and elevated PM 2.5 and PM 10 levels, with a recommendation to incorporate green infrastructure and raise public awareness to mitigate air pollution.
+   </div>  
+<br>
 
-<br>
-<br>
-   
 Projects
 =======
 **1 Title: Site Planning of Dhanmondi Lake Integrated Park**
@@ -49,14 +49,30 @@ Projects
    
 ------------------------------- 
   
-**2 Title: Site Planning of Dhanmondi Lake Integrated Park**
+**2 Title: A Study on the Renovated Parks in Dhaka North City Corporation: Exploring the Perception of the Park Users**
    <div style="text-align: justify;">
-     <b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to
-     unregulated urban expansion, pollution, and infrastructure deterioration. It highlighted past regeneration efforts and identified gaps in the physical aspects of the park’s management. Based on fieldwork and
-     literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
+     <b>Description:</b> Conducted a study on the physical characteristics and users' perceptions of Tajmahal Road Park in Mohammadpur, Dhaka, after renovation. The research involved physical and social surveys        to assess the park’s condition and gather insights, aiming to provide recommendations for improving urban parks in Dhaka based on international standards.
    </div>  
 
 ------------------------------- 
+
+**3 Title: A Study on Redevelopment of Dhaka North City Corporation (DNCC) WARD-21**
+   <div style="text-align: justify;">
+     <b>Description:</b> Conducted a study on the redevelopment of DNCC Ward-21 in north and middle Badda, focusing on identifying issues faced by the entire community. Developed a vision and mission for    
+     revitalizing the area, proposing policies to enhance recreational facilities, amenities, drainage, and promote non-motorized transport. The study created a phased implementation plan to address challenges        and improve the quality of life for residents of all backgrounds.
+   </div>  
+   
+------------------------------- 
+  
+**4 Title: A Study on the Government NGO and CBO Initiatives for Rural Development in Bangladesh**
+   <div style="text-align: justify;">
+     <b>Description:</b> Conducted a study on rural development in Bangladesh, analyzing the initiatives of GOs, NGOs, and CBOs, and assessing rural people's perceptions through 290 surveys across seven         
+     upazilas. The study identified key challenges, including limited awareness of agriculture-related initiatives, gender disparities in service access, and the lack of disaster preparedness. It recommended 
+     enhancing agricultural awareness, promoting gender equity in service provision, improving disaster management, and fostering collaboration between GOs and CBOs for better community participation.
+   </div> 
+   
+------------------------------- 
+
 
 Professional Experience
 ======
