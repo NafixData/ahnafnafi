@@ -82,6 +82,16 @@ Projects
    
 ------------------------------- 
 
+**6 Title: A Study on Urban Pond Management at the Local Level and the Role of Stakeholders**
+   <div style="text-align: justify;">
+     <b>Description:</b> This study examines the management of Kalibari Pond in Dhaka, focusing on historical context, stakeholder roles, and challenges such as waste accumulation and pondside erosion. Through 
+     field surveys and discussions, the study identifies issues in pond management, influenced by political factors. Policy recommendations include zoning, pond restoration, community engagement, and water 
+     quality management to preserve urban ponds. The findings emphasize the importance of sustainable practices and public awareness for effective pond conservation.
+   </div> 
+   
+------------------------------- 
+
+
 
 Professional Experience
 ======
