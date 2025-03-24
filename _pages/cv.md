@@ -73,6 +73,15 @@ Projects
    
 ------------------------------- 
 
+**5 Title: Transport Modeling for Urban Planning and Traffic Management**
+   <div style="text-align: justify;">
+     <b>Description:</b> This project focuses on transport modeling to predict traffic patterns and transportation behavior. Key components such as trip generation, trip distribution, and mode split are analyzed 
+     using models like gravity and Logit models. Python is used to estimate trip patterns, create an origin-destination matrix, and assess transportation modes. The study provides insights into urban mobility, 
+     essential for traffic management and infrastructure planning.
+   </div> 
+   
+------------------------------- 
+
 
 Professional Experience
 ======
