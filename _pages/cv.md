@@ -31,8 +31,9 @@ Standardized Test Scores
 Publications
 =======
 ## 1. Undergraduate Thesis
-**Thesis Title:** Deep Learning-Based Prediction of Development Phases and Their Impact on Air Quality in the Dhaka Metropolitan Region(_2025_)   
+**Thesis Title:** Deep Learning-Based Prediction of Development Phases and Their Impact on Air Quality in the Dhaka Metropolitan Region (_2025_)   
 **Supervisor:** Dr. Dipita Hossain; Assosiate Professor, Department of Urban and Regional Planning
+
    <div style="text-align: justify;">
      <b>Description:</b> This study investigates the impact of urban development on air quality in Dhaka using deep learning and sky images. A predictive model, built on the ResNet-50 architecture, classifies urban areas based on their development phases and air quality levels, achieving 93% classification accuracy. The study also creates a novel image database (Infra-Nafi) for air quality prediction. Findings suggest a strong correlation between urban development and elevated PM 2.5 and PM 10 levels, with a recommendation to incorporate green infrastructure and raise public awareness to mitigate air pollution.
    </div>  
