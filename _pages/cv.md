@@ -23,7 +23,7 @@ Academic Credentials
 
 Standardized Test Scores
 ======
-- **IELTS** 
+**IELTS** 
 | Listening              | Reading                |  Writing               | Speaking               |
 |------------------------|------------------------|------------------------|------------------------|
 | 6.5                    | 7.5                    | 6.5                    |   6.5                  |
