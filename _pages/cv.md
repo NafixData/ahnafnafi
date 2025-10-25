@@ -12,8 +12,8 @@ redirect_from:
 Academic Credentials
 ======      		
 
-| Degree                 | Department                                           |  Institute                                         |
-| -----------------------| -----------------------------------------------------| ---------------------------------------------------|
+| Degree                 | Department                                           |  Institute                                         |                                 
+| -----------------------| -----------------------------------------------------| ---------------------------------------------------|                              
 | B.Sc (_February 2025_) |Urban and Regional Planning                           | Bangladesh Univerity of Engineering and Technology |
 | H.Sc (_July 2019_)     | Science                                              | Birshrestha Noor Mohammad Public College           |
 | S.Sc (_May 2017_)      | Science                                              | Birshrestha Noor Mohammad Public College           |
@@ -23,10 +23,18 @@ Academic Credentials
 
 Standardized Test Scores
 ======
-- **IELTS**
-  
-- **GRE**
+- **IELTS** October 23, 2025
+| Listening              | Reading                |  Writing               | Speaking               |
+|------------------------|------------------------|------------------------|------------------------|
+| 6.5                    | 7.5                    | 6.5                    |   6.5                  |
 
+- **GRE** September 22, 2025
+| Quantitative Reasoning      | Verbal Reasoning              |  Analytical Writing               |
+|-------------                |---------------  |--------                                         |
+
+| Scaled Score | Percentile   | Scaled Score    | Percentile  | Scaled Score     | Percentile     |
+|------------- |--------------|---------------  |--------     |---------         |----------------|
+| 164          | 63           |144              |   18        |3.5               |43              |
 
 Publications
 =======
