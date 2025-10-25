@@ -23,12 +23,12 @@ Academic Credentials
 
 Standardized Test Scores
 ======
-**IELTS** 
+**IELTS** 23 October, 2025
 | Listening              | Reading                |  Writing               | Speaking               |
 |------------------------|------------------------|------------------------|------------------------|
 | 6.5                    | 7.5                    | 6.5                    |   6.5                  |
 
-- **GRE** 
+**GRE** 22 September, 2025
 | Quantitative Reasoning      | Verbal Reasoning              |  Analytical Writing               |
 |-------------                |---------------  |--------                                         |
 
