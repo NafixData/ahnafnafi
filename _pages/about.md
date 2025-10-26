@@ -6,15 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Urban Planner | Data Enthusiast | Aspiring Researcher
+# Urban Planner | Aspiring Researcher
 -------------------------------
 
 **Welcome!**  
-<p style="text-align: justify;">
+
   
 I've recently graduated from Urban and Regional Planning (URP) department from Bangladesh University of Engineering and Technology, Dhaka, Bangladesh. 
 
-**Research Interest**
+**Research Interest** <br>
 My academic journey revolves around exploring:  
 - Transportation planning
 - Environmental Engineering (Prediction Models)
@@ -22,7 +22,7 @@ My academic journey revolves around exploring:
 - Machine Learning and Deep Learning
 
 This website is a reflection of my academic interests, research projects, and professional goals. Here, I tried to blend my background in urban planning  with machine learning models, particularly in the environmental and transportation domains.
-</p>
+
 
 Current Goals
 ========
