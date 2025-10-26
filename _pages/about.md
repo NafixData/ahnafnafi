@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ahnaf Nafi"
+title: "Md Ahnaf Nafi"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,13 +12,20 @@ redirect_from:
 **Welcome!**  
 <p style="text-align: justify;">
   
-I am a student of  <b> Urban and Regional Planning (URP)</b> at BUET, Bangladesh. My academic journey revolves around exploring <b>urbanization, migration, statistical analysis,</b> and <b>civil engineering principles </b>. Alongside planning, I have cultivated a deep interest in <b> Data Science </b> specially in <b> Machine Learning and Deep Learning</b>, working with tools like ArcGIS, R-Studio, PTV Vissim and Excel. <br>
+I've recently graduated from Urban and Regional Planning (URP) department from Bangladesh University of Engineering and Technology, Dhaka, Bangladesh. 
 
-This website is a reflection of my academic interests, research projects, and professional goals. As I transition into the world of <b>data analytics and advanced research </b>, I aim to blend my background in <b>urban planning </b> with <b>machine learning models </b>, particularly in the environmental and transportation domains.
+**Research Interest**
+My academic journey revolves around exploring:  
+- Transportation planning
+- Environmental Engineering (Prediction Models)
+- Geography and GIS
+- Machine Learning and Deep Learning
+
+This website is a reflection of my academic interests, research projects, and professional goals. Here, I tried to blend my background in urban planning  with machine learning models, particularly in the environmental and transportation domains.
 </p>
 
 Current Goals
 ========
-- Applying for PhD Programs in the USA with a focus on environmental science and machine learning applications.  
+- Applying for Graduate Programs with a focus on machine learning applications in (Transportation and Environment).  
 - Expanding my skills in data analytics and building meaningful, impactful models.  
 - Exploring opportunities for collaborative research and contributing to the scientific community.  
