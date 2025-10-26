@@ -12,7 +12,7 @@ redirect_from:
 **Welcome!**  
 
   
-I've graduated from Urban and Regional Planning (URP), from Bangladesh University of Engineering and Technology, Bangladesh. Now, I'm preparing myself to pursure higher education further. My academic journey revolved around exploring planning in different sectors like- Housing, Transportation, Environment, Geography. These inter-related and multi-dimentional sectors required a lot of data analysis tools as well.  
+I've graduated from Urban and Regional Planning (URP), from Bangladesh University of Engineering and Technology, Dhaka. Now, I'm preparing myself to pursue higher education further. My academic journey revolved around exploring planning in different sectors like- Housing, Transportation, Environment, Geography. These inter-related and multi-dimentional sectors required a lot of data analysis tools as well.  
 
 **Research Interest** 
 - Transportation planning
