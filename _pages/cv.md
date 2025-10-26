@@ -33,7 +33,9 @@ Standardized Test Scores
 
 | Quantitative Reasoning      | Verbal Reasoning              |  Analytical Writing               |
 |-----------------------------|-------------------------------|-----------------------------------|
+
 | Scaled Score | Percentile   | Scaled Score    | Percentile  | Scaled Score     | Percentile     |
+|------------- |--------------|-----------------|-------------|------------------|----------------|
 | 164          | 63           |144              |   18        |3.5               |43              |
 
 Publications
