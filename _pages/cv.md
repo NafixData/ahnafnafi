@@ -42,14 +42,25 @@ Research
 **Thesis Title:** Deep Learning-Based Prediction of Development Phases and Their Impact on Air Quality in the Dhaka Metropolitan Region (_2025_)   
    <div style="text-align: justify;">
      <b>Supervisor:</b> Dr. Dipita Hossain; Assosiate Professor, Department of Urban and Regional Planning <br>
-     <b>Description:</b> This study investigates the impact of urban development on air quality in certain regions of Dhaka using sky images. A predictive model, built on the ResNet-50       
-      architecture, classifies urban areas based on their development phases and air quality levels. The study also creates a novel image database (Infra-Nafi) for air 
-      quality prediction. Findings suggest a strong correlation between urban development and elevated PM 2.5 and PM 10 levels, with a recommendation to incorporate green infrastructure and raise public 
-      awareness to mitigate air pollution.
+     <br>
+     <b>Description:</b> This study investigates the impact of urban development on air quality in certain regions of Dhaka using sky images. A predictive model, built on the ResNet-50 architecture, classifies urban areas based on their development phases and air quality levels. The study also creates a novel image database (Infra-Nafi) for air quality prediction. Findings suggest a strong correlation between urban development and elevated PM 2.5 and PM 10 levels, with a recommendation to incorporate green infrastructure and raise public awareness to mitigate air pollution.
    </div>  
 <br>
+----
 
-## Projects
+## Projects (Transportation)
+
+**1 Title: Transport Modeling for Urban Planning and Traffic Management**
+   <div style="text-align: justify;">
+     <b>Description:</b> This project focuses on transport modeling to predict traffic patterns and transportation behavior. Key components such as trip generation, trip distribution, and mode split are analyzed 
+     using gravity and Logit models. Python is used to estimate trip patterns, create an origin-destination matrix, and assess transportation modes. The study provides insights into urban mobility, essential for 
+     traffic management and infrastructure planning.
+   </div> 
+   
+------------------------------- 
+
+## Projects (Environment)
+
 **1 Title: Site Planning of Dhanmondi Lake Integrated Park**
    <div style="text-align: justify;">
      <b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to
@@ -61,10 +72,11 @@ Research
   
 **2 Title: A Study on the Renovated Parks in Dhaka North City Corporation: Exploring the Perception of the Park Users**
    <div style="text-align: justify;">
-     <b>Description:</b> Conducted a study on the physical characteristics and users' perceptions of Tajmahal Road Park in Mohammadpur, Dhaka, after renovation. The research involved physical and social surveys        to assess the park’s condition and gather insights, aiming to provide recommendations for improving urban parks in Dhaka based on international standards.
+     <b>Description:</b> Conducted a study on the physical characteristics and users' perceptions of Tajmahal Road Park in Mohammadpur, Dhaka, after renovation. The research involved physical and social surveys to assess the park’s condition and gather insights, aiming to provide recommendations for improving urban parks in Dhaka based on international standards.
    </div>  
 
 ------------------------------- 
+## Projects (Geography)
 
 **3 Title: A Study on Redevelopment of Dhaka North City Corporation (DNCC) WARD-21**
    <div style="text-align: justify;">
@@ -83,14 +95,7 @@ Research
    
 ------------------------------- 
 
-**5 Title: Transport Modeling for Urban Planning and Traffic Management**
-   <div style="text-align: justify;">
-     <b>Description:</b> This project focuses on transport modeling to predict traffic patterns and transportation behavior. Key components such as trip generation, trip distribution, and mode split are analyzed 
-     using models like gravity and Logit models. Python is used to estimate trip patterns, create an origin-destination matrix, and assess transportation modes. The study provides insights into urban mobility, 
-     essential for traffic management and infrastructure planning.
-   </div> 
-   
-------------------------------- 
+
 
 **6 Title: A Study on Urban Pond Management at the Local Level and the Role of Stakeholders**
    <div style="text-align: justify;">
