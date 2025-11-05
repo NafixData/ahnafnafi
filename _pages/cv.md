@@ -35,8 +35,9 @@ Standardized Test Scores
 |-----------------------------|-------------------------------|-----------------------------------|
 | 164                         |144                            |3.5                                |
 
-
-## 1. Undergraduate Thesis
+Research
+=======
+## Undergraduate Thesis
 **Thesis Title:** Deep Learning-Based Prediction of Development Phases and Their Impact on Air Quality in the Dhaka Metropolitan Region (_2025_)   
    <div style="text-align: justify;">
      <b>Supervisor:</b> Dr. Dipita Hossain; Assosiate Professor, Department of Urban and Regional Planning <br>
