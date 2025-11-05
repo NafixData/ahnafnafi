@@ -9,10 +9,10 @@ tags:
 ---
 
 
+The road twisted upward, unraveling like a loose thread from the spool of the earth. As we climbed, the three of us—me, Ravi, and Deepak—talked to keep the cold at bay. Words floated in the thin air, small puffs of warmth against the growing chill. Ahead of us, our guide, Dawa, walked with the calm ease of someone who belonged to these heights. The rest of us, city folk stumbling through a world far older and wilder than we understood, lagged behind.
+
 Road to the Heaven
 ---------------
-
-The road twisted upward, unraveling like a loose thread from the spool of the earth. As we climbed, the three of us—me, Ravi, and Deepak—talked to keep the cold at bay. Words floated in the thin air, small puffs of warmth against the growing chill. Ahead of us, our guide, Dawa, walked with the calm ease of someone who belonged to these heights. The rest of us, city folk stumbling through a world far older and wilder than we understood, lagged behind.
 
 “You know, they say the Himalayas are home to gods,” Deepak said, his voice muffled under the woolen scarf wrapped tightly around his face. “Every peak has a story—some god or demon resting at the top.”
 
