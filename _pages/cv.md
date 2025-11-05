@@ -23,20 +23,19 @@ Academic Credentials
 
 Standardized Test Scores
 ======
-**IELTS** 23 October, 2025
+**IELTS** Overall band 7.0 (23 October, 2025)
 
 | Listening              | Reading                |  Writing               | Speaking               |
 |------------------------|------------------------|------------------------|------------------------|
 | 6.5                    | 7.5                    | 6.5                    |   6.5                  |
 
-**GRE** 22 September, 2025
+**GRE** Total 308 (22 September, 2025)
 
 | Quantitative Reasoning      | Verbal Reasoning              |  Analytical Writing               |
 |-----------------------------|-------------------------------|-----------------------------------|
 | 164                         |144                            |3.5                                |
 
-Publications
-=======
+
 ## 1. Undergraduate Thesis
 **Thesis Title:** Deep Learning-Based Prediction of Development Phases and Their Impact on Air Quality in the Dhaka Metropolitan Region (_2025_)   
    <div style="text-align: justify;">
@@ -47,8 +46,7 @@ Publications
    </div>  
 <br>
 
-Projects
-=======
+## Projects
 **1 Title: Site Planning of Dhanmondi Lake Integrated Park**
    <div style="text-align: justify;">
      <b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to
