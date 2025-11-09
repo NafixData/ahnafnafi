@@ -48,9 +48,9 @@ Research
 <br>
 
 
-## Projects (Transportation)
+## Projects 
 
-**1 Title: Traffic Impact Assessment of Kemal Ataturk Avenue: Development Scenarios Based on RAJUK’s Poripotro(circular)**
+**1 Title: Traffic Impact Assessment of Kemal Ataturk Avenue: Development Scenarios Based on RAJUK’s Poripotro (circular)**
   <div style="text-align: justify;">
      <b>Description:</b> This project aims to conduct a Traffic Impact Assessment (TIA) for the planned commercialization of Kamal Atatürk Avenue in Banani, Dhaka. According to DAP (Detailed Area Plan) guidelines, the area's proposed land use includes mostly residential zones. However, with potential commercialization, building heights may increase, affecting the transportation network. The TIA seeks to predict increased traffic, pinpoint bottlenecks, and propose solutions to manage congestion and safety risks effectively. Objectives include assessing traffic impacts, modeling scenarios with maximum building heights, and estimating traffic from high-traffic-generating uses.
   </div> 
@@ -59,22 +59,16 @@ Research
    <div style="text-align: justify;">
      <b>Description:</b> This project focuses on transport modeling to predict traffic patterns and transportation behavior. Key components such as trip generation, trip distribution, and mode split are analyzed using Gravity and Logit models. Python is used to estimate trip patterns, create an origin-destination matrix, and assess transportation models. The study provides insights into urban mobility, essential for traffic management and infrastructure planning.
    </div> 
-------------------------------- 
-
-## Projects (Environment) 
 
 **3 Title: A Study on the Renovated Parks in Dhaka North City Corporation: Exploring the Perception of the Park Users**
    <div style="text-align: justify;">
-     <b>Description:</b> Conducted a study on the physical characteristics and users' perceptions of Tajmahal Road Park in Mohammadpur, Dhaka, after renovation. The research involved physical and social surveys to assess the park’s condition and gather insights, aiming to provide recommendations for improving urban parks in Dhaka based on international standards.
+     <b>Description:</b> This report focuses on the physical characteristics and users' perceptions of Shahabuddin Park in Banani, Dhaka, after renovation. The research involves physical and social surveys to assess the park’s condition and gather insights, aiming to provide recommendations for improving urban parks in Dhaka based on international standards.
    </div>  
 
 **4 Title: Site Planning of Dhanmondi Lake Integrated Park**
    <div style="text-align: justify;">
-     <b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to unregulated urban expansion, pollution, and infrastructure deterioration. It highlighted past regeneration efforts and identified gaps in the physical aspects of the park’s management. Based on fieldwork and literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
+     <b>Description:</b> A physical survey was conducted of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addresses issues related to unregulated urban expansion, pollution, and infrastructure deterioration. It highlightes past regeneration efforts and identifies gaps in the physical aspects of the park’s management. Based on fieldwork and literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
    </div>  
-------------------------------- 
-
-## Projects (Geography)
 
 **5 Title: A Study on Redevelopment of Dhaka North City Corporation (DNCC) WARD-21**
    <div style="text-align: justify;">
@@ -88,9 +82,7 @@ Research
 
 **7 Title: A Study on Urban Pond Management at the Local Level and the Role of Stakeholders**
    <div style="text-align: justify;">
-     <b>Description:</b> This study examines the management of Kalibari Pond in Dhaka, focusing on historical context, stakeholder roles, and challenges such as waste accumulation and pondside erosion. Through 
-     field surveys and discussions, the study identifies issues in pond management, influenced by political factors. Policy recommendations include zoning, pond restoration, community engagement, and water 
-     quality management to preserve urban ponds. The findings emphasize the importance of sustainable practices and public awareness for effective pond conservation.
+     <b>Description:</b> This study examines the management of Kalibari Pond in Dhaka, focusing on historical context, stakeholder roles, and challenges such as waste accumulation and pondside erosion. Through field surveys and discussions, the study identifies issues in pond management, influenced by political factors. Policy recommendations include zoning, pond restoration, community engagement, and water quality management to preserve urban ponds. The findings emphasize the importance of sustainable practices and public awareness for effective pond conservation.
    </div> 
 ------------------------------- 
 
