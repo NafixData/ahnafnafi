@@ -46,9 +46,9 @@ Research
      <b>Description:</b> This study investigates the impact of urban development on air quality in certain regions of Dhaka using sky images. A predictive model, built on the ResNet-50 architecture, classifies urban areas based on their development phases and air quality levels. The study also creates a novel image database (Infra-Nafi) for air quality prediction. Findings suggest a strong correlation between urban development and elevated PM 2.5 and PM 10 levels, with a recommendation to incorporate green infrastructure and raise public awareness to mitigate air pollution.
    </div>  
 <br>
---------------------
 
-## Projects ((Transportation))
+
+## Projects (Transportation)
 
 **1 Title: Traffic Impact Assessment of Kemal Ataturk Avenue: Development Scenarios Based on RAJUK’s Poripotro(circular)**
   <div style="text-align: justify;">
