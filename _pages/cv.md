@@ -66,20 +66,18 @@ Research
 
 ## Environment Projects 
 
-**3 Title: Site Planning of Dhanmondi Lake Integrated Park**
-   <div style="text-align: justify;">
-     <b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to unregulated urban expansion, pollution, and infrastructure deterioration. It highlighted past regeneration efforts and identified gaps in the physical aspects of the park’s management. Based on fieldwork and literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
-   </div>  
-   
-------------------------------- 
-  
-**2 Title: A Study on the Renovated Parks in Dhaka North City Corporation: Exploring the Perception of the Park Users**
+**3 Title: A Study on the Renovated Parks in Dhaka North City Corporation: Exploring the Perception of the Park Users**
    <div style="text-align: justify;">
      <b>Description:</b> Conducted a study on the physical characteristics and users' perceptions of Tajmahal Road Park in Mohammadpur, Dhaka, after renovation. The research involved physical and social surveys to assess the park’s condition and gather insights, aiming to provide recommendations for improving urban parks in Dhaka based on international standards.
    </div>  
 
+**4 Title: Site Planning of Dhanmondi Lake Integrated Park**
+   <div style="text-align: justify;">
+     <b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to unregulated urban expansion, pollution, and infrastructure deterioration. It highlighted past regeneration efforts and identified gaps in the physical aspects of the park’s management. Based on fieldwork and literature review of international parks, several recommendations were proposed to improve the park's condition and sustainability.
+   </div>  
+  
 ------------------------------- 
-## Projects (Geography)
+## Geography Projects 
 
 **3 Title: A Study on Redevelopment of Dhaka North City Corporation (DNCC) WARD-21**
    <div style="text-align: justify;">
@@ -90,14 +88,10 @@ Research
   
 **4 Title: A Study on the Government NGO and CBO Initiatives for Rural Development in Bangladesh**
    <div style="text-align: justify;">
-     <b>Description:</b> Conducted a study on rural development in Bangladesh, analyzing the initiatives of GOs, NGOs, and CBOs, and assessing rural people's perceptions through 290 surveys across seven         
-     upazilas. The study identified key challenges, including limited awareness of agriculture-related initiatives, gender disparities in service access, and the lack of disaster preparedness. It recommended 
-     enhancing agricultural awareness, promoting gender equity in service provision, improving disaster management, and fostering collaboration between GOs and CBOs for better community participation.
+     <b>Description:</b> Conducted a study on rural development in Bangladesh, analyzing the initiatives of GOs, NGOs, and CBOs, and assessing rural people's perceptions through 290 surveys across seven upazilas. The study identified key challenges, including limited awareness of agriculture-related initiatives, gender disparities in service access, and the lack of disaster preparedness. It recommended enhancing agricultural awareness, promoting gender equity in service provision, improving disaster management, and fostering collaboration between GOs and CBOs for better community participation.
    </div> 
    
 ------------------------------- 
-
-
 
 **6 Title: A Study on Urban Pond Management at the Local Level and the Role of Stakeholders**
    <div style="text-align: justify;">
@@ -107,8 +101,6 @@ Research
    </div> 
    
 ------------------------------- 
-
-
 
 Professional Experience
 ======
