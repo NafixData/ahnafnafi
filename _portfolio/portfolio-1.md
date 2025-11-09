@@ -24,4 +24,4 @@ collection: portfolio
   reduce congestion, and enhance mobility options. Future work may extend the model to incorporate real-time data and further refine predictive accuracy.
 </div>
 
- ![Project Visual Abstract](https://github.com/NafixData/ahnafnafi/blob/master/images/OD%20Matrix.png)
+ ![Origin Destination Matrix](https://github.com/NafixData/ahnafnafi/blob/master/images/OD%20Matrix.png)
