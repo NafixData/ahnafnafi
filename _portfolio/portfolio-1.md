@@ -1,10 +1,11 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "TRANSPORT MODELLING <br/><img src='https://github.com/NafixData/ahnafnafi/blob/master/images/Steps.png'>
+excerpt: "TRANSPORT MODELLING <br/><img src='https://raw.githubusercontent.com/NafixData/ahnafnafi/master/images/Steps.png'>"
 collection: portfolio
 ---
 
-![Project Visual Abstract](https://github.com/NafixData/ahnafnafi/blob/master/images/Steps.png/images/Steps.png')
+![Project Visual Abstract](https://raw.githubusercontent.com/NafixData/ahnafnafi/master/images/Steps.png)
+
 
 This project focuses on the development and implementation of transport modelling techniques using Python to analyze and predict the behavior of transportation systems. The objectives were to simulate trip distributions, mode choices, and trip generation based on socioeconomic and land use data for effective transportation planning. The methodology involved applying mathematical models such as the gravity model for trip distribution and utility-based models for mode choice, supported by Python coding for data processing and analysis.
 
