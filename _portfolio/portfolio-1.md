@@ -17,10 +17,10 @@ collection: portfolio
  </div> 
  
   ![Project Visual Abstract](https://raw.githubusercontent.com/NafixData/ahnafnafi/master/images/Process.png)
-  ![Origin Destination Matrix](https://raw.githubusercontent.com/NafixData/ahnafnafi/master/images/OD%20Matrix.png) 
+ 
 <div style="text-align: justify;">
   Key findings include the successful estimation of trip matrices and mode split probabilities, which provide valuable insights into travel behavior patterns 
   and infrastructure needs. The project outcomes highlight important implications for urban planners and policy makers aiming to optimize transportation networks, 
   reduce congestion, and enhance mobility options. Future work may extend the model to incorporate real-time data and further refine predictive accuracy.
 </div>
- 
+  ![Origin Destination Matrix](https://raw.githubusercontent.com/NafixData/ahnafnafi/master/images/OD%20Matrix.png) 
