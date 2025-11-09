@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "TRANSPORT MODELLING <br/><img src='https://raw.githubusercontent.com/NafixData/ahnafnafi/master/images/Steps.png'>"
+title: "TRANSPORT MODELLING"
+excerpt: " <br/><img src='https://raw.githubusercontent.com/NafixData/ahnafnafi/master/images/Steps.png'>"
 collection: portfolio
 ---
 
