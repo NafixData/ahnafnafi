@@ -35,33 +35,36 @@ Standardized Test Scores
 |-----------------------------|-------------------------------|-----------------------------------|
 | 164                         |144                            |3.5                                |
 
------
+
 Research
 =======
 ## Undergraduate Thesis
-**Thesis Title:** Deep Learning-Based Prediction of Development Phases and Their Impact on Air Quality in the Dhaka Metropolitan Region (_2025_)   
+**Thesis Title:** Predicting The Development Phases and Their Impact on Air Quality in Dhaka Metropolitan Region Using Deep Learning (_2025_)   
    <div style="text-align: justify;">
-     <b>Supervisor:</b> Dr. Dipita Hossain; Assosiate Professor, Department of Urban and Regional Planning <br>
+     <b>Supervisor:</b> Dr. Dipita Hossain; Assistant Professor, Department of Urban and Regional Planning <br>
      <br>
      <b>Description:</b> This study investigates the impact of urban development on air quality in certain regions of Dhaka using sky images. A predictive model, built on the ResNet-50 architecture, classifies urban areas based on their development phases and air quality levels. The study also creates a novel image database (Infra-Nafi) for air quality prediction. Findings suggest a strong correlation between urban development and elevated PM 2.5 and PM 10 levels, with a recommendation to incorporate green infrastructure and raise public awareness to mitigate air pollution.
    </div>  
 <br>
 ----
 
-## Projects (Transportation)
+## Transportation Projects 
 
-**1 Title: Transport Modeling for Urban Planning and Traffic Management**
+**1 Title: Traffic Impact Assessment of Kemal Ataturk Avenue: Development Scenarios Based on RAJUK’s Poripotro(circular)**
+  <div style="text-align: justify;">
+     <b>Description:</b> This project aims to conduct a Traffic Impact Assessment (TIA) for the planned commercialization of Kamal Atatürk Avenue in Banani, Dhaka. According to DAP(Detailed Area Plan) guidelines, the area's proposed land use includes mostly residential zones. However, with potential commercialization, building heights may increase, affecting the transportation network. The TIA seeks to predict increased traffic, pinpoint bottlenecks, and propose solutions to manage congestion and safety risks effectively. Objectives include assessing traffic impacts, modeling scenarios with maximum building heights, and estimating traffic from high-traffic-generating uses.
+  </div> 
+  
+**2 Title: Transport Modeling for Urban Planning and Traffic Management** 
    <div style="text-align: justify;">
-     <b>Description:</b> This project focuses on transport modeling to predict traffic patterns and transportation behavior. Key components such as trip generation, trip distribution, and mode split are analyzed 
-     using gravity and Logit models. Python is used to estimate trip patterns, create an origin-destination matrix, and assess transportation modes. The study provides insights into urban mobility, essential for 
-     traffic management and infrastructure planning.
+     <b>Description:</b> This project focuses on transport modeling to predict traffic patterns and transportation behavior. Key components such as trip generation, trip distribution, and mode split are analyzed using Gravity and Logit models. Python is used to estimate trip patterns, create an origin-destination matrix, and assess transportation models. The study provides insights into urban mobility, essential for traffic management and infrastructure planning.
    </div> 
    
 ------------------------------- 
 
-## Projects (Environment)
+## Environment Projects 
 
-**1 Title: Site Planning of Dhanmondi Lake Integrated Park**
+**3 Title: Site Planning of Dhanmondi Lake Integrated Park**
    <div style="text-align: justify;">
      <b>Description:</b> Conducted a physical survey of Dhanmondi Lake Park to assess its current state, focusing on its environmental, social, and economic features. The study addressed issues related to
      unregulated urban expansion, pollution, and infrastructure deterioration. It highlighted past regeneration efforts and identified gaps in the physical aspects of the park’s management. Based on fieldwork and
